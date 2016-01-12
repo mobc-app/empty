@@ -10,7 +10,7 @@
 		},
 		"app_datas_js": {
 			"filename": "app/datas.js",
-			"version": "ef734071fa50548cff5e10342e77e276428e29db7fb02a80c31457a4fe65a2fd"
+			"version": "e67503a75fbe46eb659ab3b9fd2175eb36ff985aa7af7446b8b90b0e5f504107"
 		},
 		"app_directives_js": {
 			"filename": "app/directives.js",
@@ -26,7 +26,7 @@
 		},
 		"app_views_js": {
 			"filename": "app/views.js",
-			"version": "6e49fe13fa6dd9ad7703e7deebd0f9bc2fc203eb6a159f2a98648d49d50d773e"
+			"version": "e61dcf4909b863ac6202f90edad19dd3d356908436133f2148d88ab05d5884c9"
 		},
 		"css_app_css": {
 			"filename": "css/app.css",
@@ -62,7 +62,7 @@
 		},
 		"update_app-loader_js": {
 			"filename": "update/app-loader.js",
-			"version": "ec0b02d4655e0bd63285ceeac5d97ce47424bcf6be82caee4da17f520114d03c"
+			"version": "b943f320590e39c8ba01084f10ed9fa13f908f58422dc1690f4775b8613067ca"
 		},
 		"update_bootstrap_js": {
 			"filename": "update/bootstrap.js",
@@ -92,5 +92,5 @@
 		"app/views.js",
 		"update/app-loader.js"
 	],
-	"version": "1.0.1"
+	"version": "1.0.2"
 }

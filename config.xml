@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?><widget     xmlns="http://www.w3.org/ns/widgets"     xmlns:gap="http://phonegap.com/ns/1.0"    xmlns:cdv="http://cordova.apache.org/ns/1.0"    id="de.mobc.empty"     version="1.0.1"    >    <name>Empty</name>    <description>Ionic Project empty</description>    <author email="dev@mobc.de" href="http://www.mobc.de">      2016 - mobC - Peter Busch - (Peter Busch)    </author>    <content src="index.html" />    <icon src="icon.png" />	<access origin="http://*/*" />
+<?xml version='1.0' encoding='utf-8'?><widget     xmlns="http://www.w3.org/ns/widgets"     xmlns:gap="http://phonegap.com/ns/1.0"    xmlns:cdv="http://cordova.apache.org/ns/1.0"    id="de.mobc.empty"     version="1.0.2"    >    <name>Empty</name>    <description>Ionic Project empty</description>    <author email="dev@mobc.de" href="http://www.mobc.de">      2016 - mobC - Peter Busch - (Peter Busch)    </author>    <content src="index.html" />    <icon src="icon.png" />	<access origin="http://*/*" />
 	<access origin="https://*/*" />
 	<access origin="cdvfile://*" />
 	<allow-navigation href="http://*/*" />
